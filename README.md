@@ -1,33 +1,33 @@
-C Merge Conflict Practice
+#C Merge Conflict Practice
 
 A small C programming project created to practice Git branching, merging, and resolving merge conflicts.
 
-Project Description
+##Project Description
 
 This project implements a factorial calculator in C.
 
 It was also used to practice working with multiple Git branches and resolving merge conflicts manually using Vim.
 
-Features
+##Features
 Factorial calculation using recursion.
 Factorial calculation using a loop.
 Git branch creation and management.
 Merging branches.
 Creating and resolving merge conflicts.
 Editing files using Vim.
-Technologies Used
+
+##Technologies Used
 C
 Git
 GitHub
 Vim
 GCC
-How to Run
 
+##How to Run
 Clone the repository:
 
 bash
 git clone git@github.com:TUMO-Labs-x-UFAR/alla-homework.git
-
 
 Navigate into the project:
 
@@ -52,7 +52,7 @@ Expected output:
 text
 Factorial: 120
 
-What I Learned
+##What I Learned
 How to create and switch between Git branches.
 How to commit changes.
 How merge conflicts happen.
